@@ -1,0 +1,23 @@
+.login-form .front-face {
+	background-color: crimson;
+}
+
+.login-form .input {
+	border-bottom: 2px solid crimson !important;
+}
+.input-btn {
+	background-color: crimson;
+
+}
+.input-btn:hover,
+.input-btn:focus
+
+{
+	border:5px solid crimson;
+}
+.input-btn:hover:after {
+	border-right:  30px solid  crimson;
+}
+.option-box .gear-check {
+    background: crimson;
+}

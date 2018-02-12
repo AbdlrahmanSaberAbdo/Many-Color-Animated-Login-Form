@@ -1,0 +1,23 @@
+.login-form .front-face {
+	background-color: #3f18d8;
+}
+
+.login-form .input {
+	border-bottom: 2px solid #3f18d8 !important;
+}
+.input-btn {
+	background-color: #3f18d8;
+
+}
+.input-btn:hover,
+.input-btn:focus
+
+{
+	border:5px solid #3f18d8;
+}
+.input-btn:hover:after {
+	border-right:  30px solid  #3f18d8
+}
+.option-box .gear-check {
+    background: #3f18d8;
+}
